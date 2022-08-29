@@ -1,0 +1,9 @@
+{
+    "client": [ "division_a", "division_b" ],
+    "division_a": ["area_a", "area_b"],
+    "division_b": ["area_c", "area_d"],
+    "area_a": ["branch_a", "branch_b", "branch_c", "branch_d"],
+    "area_b": ["branch_e", "branch_f", "branch_g", "branch_h"],
+    "area_c": ["branch_i", "branch_j", "branch_k", "branch_l"],
+    "area_d": ["branch_m", "branch_n", "branch_o", "branch_p"]
+}

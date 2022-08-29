@@ -1,0 +1,8 @@
+anytree==2.8.0
+attrs==22.1.0
+autopep8==1.7.0
+jsonschema==4.14.0
+pycodestyle==2.9.1
+pyrsistent==0.18.1
+six==1.16.0
+toml==0.10.2
